@@ -8,7 +8,7 @@ O desafio proposto foi: Criar um sistema de cadastro de conta bancária via term
 
 <img src="https://github.com/user-attachments/assets/664b2f3b-defb-4a2a-b91f-08f4b8965c0c" width=280/>
 
-# Técnologias utilizada:
+# Técnologias utilizadas:
 * Scanner para entrada e saída de dados.
 * Sysout para saída de mensagens em alguns formatos especificos.
 * Criação de variavéis dos tipos: int, double e String.
