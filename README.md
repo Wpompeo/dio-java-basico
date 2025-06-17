@@ -1,5 +1,5 @@
 ## Repositório voltado para o primeiro desafio do curso de java básico do bootcamp DIO-Santander.
-O desafio proposto foi: Criar um sistema de cadastro de conta bancária via terminal, onde o usuário informa os dados para criação de uma conta bancária.
+O desafio proposto foi: Criar um sistema de cadastro de conta bancária via terminal, onde o usuário informa os dados para a criação da conta.
 
 
 ## :camera_flash: Screenshots
